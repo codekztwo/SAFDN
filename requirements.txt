@@ -1,0 +1,6 @@
+Pillow
+numpy
+torch
+torchvision
+pytorch-ignite
+h5py==2.9.0
