@@ -9,4 +9,4 @@ Information: Click [here](https://www.uni-ulm.de/index.php?id=101568) for regist
 ## Usage
 Training the model: Use Python files starting with "train" for training various models.
 
-Testing the model: Utilize the "inference_testdata.py" script to load the saved model, classify points in the HDF5 file, and then save the generated classification labels.
+Testing the model: Utilize the "getlable.py" script to load the saved model, classify points in the HDF5 file, and then save the generated classification labels.
